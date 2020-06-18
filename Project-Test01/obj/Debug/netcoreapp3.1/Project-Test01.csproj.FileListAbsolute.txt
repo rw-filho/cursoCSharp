@@ -1,0 +1,13 @@
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.exe
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.deps.json
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.runtimeconfig.json
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.runtimeconfig.dev.json
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.dll
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\bin\Debug\netcoreapp3.1\Project-Test01.pdb
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.csprojAssemblyReference.cache
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.AssemblyInfoInputs.cache
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.AssemblyInfo.cs
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.csproj.CoreCompileInputs.cache
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.dll
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.pdb
+C:\Users\jvoli\Documents\C#\Project-Test01\Project-Test01\obj\Debug\netcoreapp3.1\Project-Test01.genruntimeconfig.cache
